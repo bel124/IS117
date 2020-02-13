@@ -1,2 +1,28 @@
-# IS117
-Write definitions for the next homework assignment HERE:
+#Tutorial:
+
+
+
+#Keywords:
+GIT:
+
+GITHUB:
+
+Repository:
+
+Clone:
+
+Commit:
+
+Push:
+
+Pull:
+
+Branch:
+
+Merge:
+
+Merge Conflict:
+
+Fetch:
+
+Remote:
