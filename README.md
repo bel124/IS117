@@ -60,18 +60,21 @@ Repository: like a folder where projects, files, etc. can be saved on.
 Clone: replicating project, files, etc. from the remote repository into an individual's local machine to keep save 
 all and any progress made. 
 
-Commit:
+Commit: changes to any project or file is saved by using the commit command. 
 
-Push:
+Push: every commit is a change and those changes need to transfer and be stored into the repository, and to do so, the push command is utilized.
 
-Pull:
+Pull: allows users to notify others about the changes made to a branch in a 
+       repository
 
-Branch:
+Branch: are use to isolate
+         different types of development work without affecting any others.
 
-Merge:
+Merge: combining work from one branch into another, unifying. 
 
-Merge Conflict:
+Merge Conflict: happens when two people are trying to make different changes to
+                 the same lines in the same file but in different branches.
 
-Fetch:
+Fetch: used to download work and files to see what other members of the repository have been working on.
 
-Remote:
+Remote: another location other than a user's local machine where files can be accessed from.
