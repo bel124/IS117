@@ -30,7 +30,18 @@ Today I will be giving a quick but very useful detailed
  a user could have a branch for school and one for an internship. This
  individual might have very similar work to accomplish but does not want to
  combined them nor confuse them and so uses different branches to which
- certain work has to be applied to each. 
+ certain work has to be applied to each. When an individual does want to
+ combine certain branches together, the merge command is very useful
+ in order to do so. Merging means combining, so work from both branches become
+ one. Merging conflicts can also occur specially when competing line changes. 
+ For instance, this happens when two people are trying to make different changes to
+ the same lines in the same file but in different branches. In order to do so, one must
+ rebase those branches and merge them again. If a user wanted to download commits, files, or
+ any references from their remote repository, a useful command to use
+ is fetch. Very useful when wanting to see what everyone else has been contributing
+ to such project and/or files. 
+ I hope this simple tutorial has provided a general idea to those who
+ are new to using GitHub. 
  
 
 #Keywords:
