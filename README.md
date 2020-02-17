@@ -1,4 +1,6 @@
 #Tutorial:
+
+
 Welcome to my tutorial!
 Today I will be giving a quick but very useful detailed
  tutorial to understand the usage of GitHub. 
@@ -12,7 +14,7 @@ Today I will be giving a quick but very useful detailed
  into the local machine through the command line --> typing:
  git clone and the repository's url. A user could be working on a large
  project and could be doing certain changes once in a while. A great tool
- GitHub has is the commit command. By committing everytime there is
+ GitHub has is the commit command. By committing every time there is
  a change in the project, the user is able to save those changes and 
  track them. Very convenient when the project is left aside for a long
  period of time. One can go back and check what the progress was and
@@ -46,13 +48,17 @@ Today I will be giving a quick but very useful detailed
 
 #Keywords:
 
-GIT:
 
-GITHUB:
+GIT: a command line tool that allows users to perform certain tasks to be published onto 
+      certain repositories.
 
-Repository:
+GITHUB: is a software development platform where users can
+         safely save their projects and work remotely.
 
-Clone:
+Repository: like a folder where projects, files, etc. can be saved on.
+
+Clone: replicating project, files, etc. from the remote repository into an individual's local machine to keep save 
+all and any progress made. 
 
 Commit:
 
